@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at [Optios](http://www.optios.com)
+- 🤔 More about me: [http://www.beaualbiston.com](http://www.beaualbiston.com)
+
 <!--
 **beauzo/beauzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
