@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Optios](http://www.optios.com)
+- 🔭 I'm currently hacking at [Optios](http://www.optios.com)
+- 🔭 I’m currently working on neuroperformance and neural-control interface (NCI) tech
 - 🤔 More about me: [http://www.beaualbiston.com](http://www.beaualbiston.com)
 
 <!--
