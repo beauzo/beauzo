@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I'm currently enthusiastically seeking the next formidable challenge or visionary project to bring to fruition!
-- 🌱 I was working on breaking new ground at the nexus of machine learning, neuroscience, and human performance augmentation.
-- ⚡ Please reach out if you're in need of kick-a$$ principal engineering manager or IC.
 - 🤔 More about me at [http://www.beaualbiston.com](http://www.beaualbiston.com).
 
 <!--
